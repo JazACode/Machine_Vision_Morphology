@@ -1,6 +1,4 @@
 # Name: Jazwaur Ankrah
-# Number: 001027898
-# Machine Vision Assignment 3: Morphology
 
 import numpy as np
 import cv2
